@@ -1,0 +1,5 @@
+node_modules
+.aider.ident.cache.v1
+.aider.tags.cache.v1
+.aider.input.history
+.aider.chat.history.md
